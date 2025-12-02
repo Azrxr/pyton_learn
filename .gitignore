@@ -1,5 +1,6 @@
 # Abaikan semua file/dir yang diawali titik
 .*
+_*
 
 # Kecualikan .git dan file .gitignore itu sendiri agar repo tetap berfungsi
 !/.git
